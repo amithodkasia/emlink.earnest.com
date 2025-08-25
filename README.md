@@ -1,2 +1,2 @@
-# emlink.earnest.comi
+# emlink.earnest.com
 ## subdomain takeover
